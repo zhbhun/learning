@@ -7,3 +7,6 @@
 [submodule "babel"]
 	path = babel
 	url = https://github.com/zhbhun/babel-learning.git
+[submodule "design-web"]
+	path = design-web
+	url = https://github.com/zhbhun/design-web.git
