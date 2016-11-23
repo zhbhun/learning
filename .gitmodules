@@ -19,3 +19,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/zhbhun/javascript-learning.git
+[submodule "webpack"]
+	path = webpack
+	url = https://github.com/zhbhun/WebpackStudyDemo.git
