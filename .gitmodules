@@ -22,3 +22,6 @@
 [submodule "webpack"]
 	path = webpack
 	url = https://github.com/zhbhun/WebpackStudyDemo.git
+[submodule "react"]
+	path = react
+	url = https://github.com/zhbhun/react-learning.git
