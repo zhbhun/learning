@@ -16,3 +16,6 @@
 [submodule "html"]
 	path = html
 	url = https://github.com/zhbhun/html-learning.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/zhbhun/javascript-learning.git
