@@ -4,3 +4,6 @@
 [submodule "antd"]
 	path = antd
 	url = https://github.com/zhbhun/antd-learning.git
+[submodule "babel"]
+	path = babel
+	url = https://github.com/zhbhun/babel-learning.git
