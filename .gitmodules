@@ -25,3 +25,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/zhbhun/react-learning.git
+[submodule "design-android"]
+	path = design-android
+	url = https://github.com/zhbhun/design-android.git
