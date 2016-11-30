@@ -31,3 +31,6 @@
 [submodule "browser"]
 	path = browser
 	url = https://github.com/zhbhun/browser-lerning.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zhbhun/frontend-learning.git
