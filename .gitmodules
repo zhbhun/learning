@@ -28,3 +28,6 @@
 [submodule "design-android"]
 	path = design-android
 	url = https://github.com/zhbhun/design-android.git
+[submodule "browser"]
+	path = browser
+	url = https://github.com/zhbhun/browser-lerning.git
