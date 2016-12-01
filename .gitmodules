@@ -34,3 +34,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/zhbhun/frontend-learning.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/zhbhun/mobile-learning.git
