@@ -37,3 +37,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/zhbhun/mobile-learning.git
+[submodule "react-native"]
+	path = react-native
+	url = https://github.com/zhbhun/react-native-learning.git
