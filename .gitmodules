@@ -40,3 +40,6 @@
 [submodule "react-native"]
 	path = react-native
 	url = https://github.com/zhbhun/react-native-learning.git
+[submodule "redux"]
+	path = redux
+	url = https://github.com/zhbhun/redux-learning.git
