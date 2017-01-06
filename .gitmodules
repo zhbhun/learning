@@ -1,45 +1,45 @@
-[submodule "css"]
-	path = css
-	url = https://github.com/zhbhun/css-learning.git
 [submodule "antd"]
 	path = antd
 	url = https://github.com/zhbhun/antd-learning.git
 [submodule "babel"]
 	path = babel
 	url = https://github.com/zhbhun/babel-learning.git
-[submodule "design-web"]
-	path = design-web
-	url = https://github.com/zhbhun/design-web.git
+[submodule "browser"]
+	path = browser
+	url = https://github.com/zhbhun/browser-lerning.git
+[submodule "css"]
+	path = css
+	url = https://github.com/zhbhun/css-learning.git
+[submodule "design"]
+	path = design
+	url = https://github.com/zhbhun/design-learning.git
 [submodule "express"]
 	path = express
 	url = https://github.com/zhbhun/express-learning.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zhbhun/frontend-learning.git
 [submodule "html"]
 	path = html
 	url = https://github.com/zhbhun/html-learning.git
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/zhbhun/javascript-learning.git
-[submodule "webpack"]
-	path = webpack
-	url = https://github.com/zhbhun/WebpackStudyDemo.git
-[submodule "react"]
-	path = react
-	url = https://github.com/zhbhun/react-learning.git
-[submodule "design-android"]
-	path = design-android
-	url = https://github.com/zhbhun/design-android.git
-[submodule "browser"]
-	path = browser
-	url = https://github.com/zhbhun/browser-lerning.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/zhbhun/frontend-learning.git
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/zhbhun/mobile-learning.git
+[submodule "react"]
+	path = react
+	url = https://github.com/zhbhun/react-learning.git
 [submodule "react-native"]
 	path = react-native
 	url = https://github.com/zhbhun/react-native-learning.git
 [submodule "redux"]
 	path = redux
 	url = https://github.com/zhbhun/redux-learning.git
+[submodule "webpack"]
+	path = webpack
+	url = https://github.com/zhbhun/WebpackStudyDemo.git
+[submodule "flow"]
+	path = flow
+	url = https://github.com/zhbhun/flow-learning.git
