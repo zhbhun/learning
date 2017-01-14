@@ -16,15 +16,24 @@
 [submodule "express"]
 	path = express
 	url = https://github.com/zhbhun/express-learning.git
+[submodule "flow"]
+	path = flow
+	url = https://github.com/zhbhun/flow-learning.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/zhbhun/frontend-learning.git
 [submodule "html"]
 	path = html
 	url = https://github.com/zhbhun/html-learning.git
+[submodule "java"]
+	path = java
+	url = https://github.com/zhbhun/java-learning.git
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/zhbhun/javascript-learning.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/zhbhun/linux-learning.git
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/zhbhun/mobile-learning.git
@@ -40,6 +49,4 @@
 [submodule "webpack"]
 	path = webpack
 	url = https://github.com/zhbhun/WebpackStudyDemo.git
-[submodule "flow"]
-	path = flow
-	url = https://github.com/zhbhun/flow-learning.git
+
