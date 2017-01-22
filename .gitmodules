@@ -4,6 +4,9 @@
 [submodule "babel"]
 	path = babel
 	url = https://github.com/zhbhun/babel-learning.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/zhbhun/bootstrap-learning.git
 [submodule "browser"]
 	path = browser
 	url = https://github.com/zhbhun/browser-lerning.git
@@ -22,15 +25,24 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/zhbhun/frontend-learning.git
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/zhbhun/learning-gradle.git
 [submodule "html"]
 	path = html
 	url = https://github.com/zhbhun/html-learning.git
+[submodule "issues"]
+	path = issues
+	url = https://github.com/zhbhun/issues-fixer.git
 [submodule "java"]
 	path = java
 	url = https://github.com/zhbhun/java-learning.git
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/zhbhun/javascript-learning.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/zhbhun/learning-jquery.git
 [submodule "linux"]
 	path = linux
 	url = https://github.com/zhbhun/linux-learning.git
