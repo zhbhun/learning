@@ -1,3 +1,6 @@
+[submodule "angular"]
+	path = angular
+	url = git@github.com:zhbhun/angular-learning.git
 [submodule "antd"]
 	path = antd
 	url = https://github.com/zhbhun/antd-learning.git
@@ -19,9 +22,6 @@
 [submodule "express"]
 	path = express
 	url = https://github.com/zhbhun/express-learning.git
-[submodule "flow"]
-	path = flow
-	url = https://github.com/zhbhun/flow-learning.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/zhbhun/frontend-learning.git
@@ -40,9 +40,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/zhbhun/javascript-learning.git
-[submodule "jquery"]
-	path = jquery
-	url = https://github.com/zhbhun/learning-jquery.git
 [submodule "linux"]
 	path = linux
 	url = https://github.com/zhbhun/linux-learning.git
@@ -61,4 +58,9 @@
 [submodule "webpack"]
 	path = webpack
 	url = https://github.com/zhbhun/WebpackStudyDemo.git
-
+[submodule "nodejs"]
+	path = nodejs
+	url = git@github.com:zhbhun/nodejs-learning.git
+[submodule "network"]
+	path = network
+	url = git@github.com:zhbhun/network-learning.git
