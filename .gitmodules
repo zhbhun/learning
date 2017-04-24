@@ -3,61 +3,61 @@
 	url = git@github.com:zhbhun/angular-learning.git
 [submodule "antd"]
 	path = antd
-	url = https://github.com/zhbhun/antd-learning.git
+	url = git@github.com:zhbhun/antd-learning.git
 [submodule "babel"]
 	path = babel
-	url = https://github.com/zhbhun/babel-learning.git
+	url = git@github.com:zhbhun/babel-learning.git
 [submodule "bootstrap"]
 	path = bootstrap
-	url = https://github.com/zhbhun/bootstrap-learning.git
+	url = git@github.com:zhbhun/bootstrap-learning.git
 [submodule "browser"]
 	path = browser
-	url = https://github.com/zhbhun/browser-lerning.git
+	url = git@github.com:zhbhun/browser-lerning.git
 [submodule "css"]
 	path = css
-	url = https://github.com/zhbhun/css-learning.git
+	url = git@github.com:zhbhun/css-learning.git
 [submodule "design"]
 	path = design
-	url = https://github.com/zhbhun/design-learning.git
+	url = git@github.com:zhbhun/design-learning.git
 [submodule "express"]
 	path = express
-	url = https://github.com/zhbhun/express-learning.git
+	url = git@github.com:zhbhun/express-learning.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/zhbhun/frontend-learning.git
+	url = git@github.com:zhbhun/frontend-learning.git
 [submodule "gradle"]
 	path = gradle
-	url = https://github.com/zhbhun/learning-gradle.git
+	url = git@github.com:zhbhun/learning-gradle.git
 [submodule "html"]
 	path = html
-	url = https://github.com/zhbhun/html-learning.git
+	url = git@github.com:zhbhun/html-learning.git
 [submodule "issues"]
 	path = issues
-	url = https://github.com/zhbhun/issues-fixer.git
+	url = git@github.com:zhbhun/issues-fixer.git
 [submodule "java"]
 	path = java
-	url = https://github.com/zhbhun/java-learning.git
+	url = git@github.com:zhbhun/java-learning.git
 [submodule "javascript"]
 	path = javascript
-	url = https://github.com/zhbhun/javascript-learning.git
+	url = git@github.com:zhbhun/javascript-learning.git
 [submodule "linux"]
 	path = linux
-	url = https://github.com/zhbhun/linux-learning.git
+	url = git@github.com:zhbhun/linux-learning.git
 [submodule "mobile"]
 	path = mobile
-	url = https://github.com/zhbhun/mobile-learning.git
+	url = git@github.com:zhbhun/mobile-learning.git
 [submodule "react"]
 	path = react
-	url = https://github.com/zhbhun/react-learning.git
+	url = git@github.com:zhbhun/react-learning.git
 [submodule "react-native"]
 	path = react-native
-	url = https://github.com/zhbhun/react-native-learning.git
+	url = git@github.com:zhbhun/react-native-learning.git
 [submodule "redux"]
 	path = redux
-	url = https://github.com/zhbhun/redux-learning.git
+	url = git@github.com:zhbhun/redux-learning.git
 [submodule "webpack"]
 	path = webpack
-	url = https://github.com/zhbhun/WebpackStudyDemo.git
+	url = git@github.com:zhbhun/WebpackStudyDemo.git
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:zhbhun/nodejs-learning.git
