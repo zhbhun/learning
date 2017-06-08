@@ -1,3 +1,6 @@
+[submodule "android"]
+	path = android
+	url = git@github.com:zhbhun/android-learning.git
 [submodule "angular"]
 	path = angular
 	url = git@github.com:zhbhun/angular-learning.git
@@ -40,12 +43,15 @@
 [submodule "javascript"]
 	path = javascript
 	url = git@github.com:zhbhun/javascript-learning.git
-[submodule "linux"]
-	path = linux
-	url = git@github.com:zhbhun/linux-learning.git
 [submodule "mobile"]
 	path = mobile
 	url = git@github.com:zhbhun/mobile-learning.git
+[submodule "network"]
+	path = network
+	url = git@github.com:zhbhun/network-learning.git
+[submodule "nodejs"]
+	path = nodejs
+	url = git@github.com:zhbhun/nodejs-learning.git
 [submodule "react"]
 	path = react
 	url = git@github.com:zhbhun/react-learning.git
@@ -58,12 +64,6 @@
 [submodule "webpack"]
 	path = webpack
 	url = git@github.com:zhbhun/WebpackStudyDemo.git
-[submodule "nodejs"]
-	path = nodejs
-	url = git@github.com:zhbhun/nodejs-learning.git
-[submodule "network"]
-	path = network
-	url = git@github.com:zhbhun/network-learning.git
-[submodule "android"]
-	path = android
-	url = git@github.com:zhbhun/android-learning.git
+[submodule "software"]
+	path = software
+	url = git@github.com:zhbhun/awesome-software.git
