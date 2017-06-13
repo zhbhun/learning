@@ -52,6 +52,9 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:zhbhun/nodejs-learning.git
+[submodule "programming"]
+	path = programming
+	url = git@github.com:zhbhun/awesome-programming.git
 [submodule "react"]
 	path = react
 	url = git@github.com:zhbhun/react-learning.git
@@ -67,3 +70,6 @@
 [submodule "software"]
 	path = software
 	url = git@github.com:zhbhun/awesome-software.git
+[submodule "vcs"]
+	path = vcs
+	url = git@github.com:zhbhun/vcs-learning.git
