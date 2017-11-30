@@ -61,9 +61,6 @@
 [submodule "react-native"]
 	path = react-native
 	url = git@github.com:zhbhun/react-native-learning.git
-[submodule "redux"]
-	path = redux
-	url = git@github.com:zhbhun/redux-learning.git
 [submodule "webpack"]
 	path = webpack
 	url = git@github.com:zhbhun/WebpackStudyDemo.git
