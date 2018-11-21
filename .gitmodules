@@ -64,9 +64,6 @@
 [submodule "webpack"]
 	path = webpack
 	url = git@github.com:zhbhun/WebpackStudyDemo.git
-[submodule "software"]
-	path = software
-	url = git@github.com:zhbhun/awesome-software.git
 [submodule "vcs"]
 	path = vcs
 	url = git@github.com:zhbhun/vcs-learning.git
