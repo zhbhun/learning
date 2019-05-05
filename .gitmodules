@@ -1,51 +1,25 @@
+
+[submodule "algorithm"]
+	path = algorithm
+	url = git@github.com:zhbhun/algorithm-learning.git
 [submodule "android"]
 	path = android
 	url = git@github.com:zhbhun/android-learning.git
-[submodule "angular"]
-	path = angular
-	url = git@github.com:zhbhun/angular-learning.git
-[submodule "antd"]
-	path = antd
-	url = git@github.com:zhbhun/antd-learning.git
-[submodule "babel"]
-	path = babel
-	url = git@github.com:zhbhun/babel-learning.git
-[submodule "bootstrap"]
-	path = bootstrap
-	url = git@github.com:zhbhun/bootstrap-learning.git
-[submodule "browser"]
-	path = browser
-	url = git@github.com:zhbhun/browser-lerning.git
-[submodule "css"]
-	path = css
-	url = git@github.com:zhbhun/css-learning.git
+[submodule "database"]
+	path = database
+	url = git@github.com:zhbhun/database-learning.git
 [submodule "design"]
 	path = design
 	url = git@github.com:zhbhun/design-learning.git
-[submodule "express"]
-	path = express
-	url = git@github.com:zhbhun/express-learning.git
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:zhbhun/frontend-learning.git
-[submodule "gradle"]
-	path = gradle
-	url = git@github.com:zhbhun/learning-gradle.git
-[submodule "html"]
-	path = html
-	url = git@github.com:zhbhun/html-learning.git
 [submodule "issues"]
 	path = issues
 	url = git@github.com:zhbhun/issues-fixer.git
 [submodule "java"]
 	path = java
 	url = git@github.com:zhbhun/java-learning.git
-[submodule "javascript"]
-	path = javascript
-	url = git@github.com:zhbhun/javascript-learning.git
-[submodule "mobile"]
-	path = mobile
-	url = git@github.com:zhbhun/mobile-learning.git
 [submodule "network"]
 	path = network
 	url = git@github.com:zhbhun/network-learning.git
@@ -55,21 +29,9 @@
 [submodule "programming"]
 	path = programming
 	url = git@github.com:zhbhun/awesome-programming.git
-[submodule "react"]
-	path = react
-	url = git@github.com:zhbhun/react-learning.git
-[submodule "react-native"]
-	path = react-native
-	url = git@github.com:zhbhun/react-native-learning.git
-[submodule "webpack"]
-	path = webpack
-	url = git@github.com:zhbhun/WebpackStudyDemo.git
-[submodule "vcs"]
-	path = vcs
-	url = git@github.com:zhbhun/vcs-learning.git
-[submodule "vue"]
-	path = vue
-	url = git@github.com:zhbhun/vue-learning.git
 [submodule "software"]
 	path = software
 	url = git@github.com:zhbhun/awesome-software.git
+[submodule "vcs"]
+	path = vcs
+	url = git@github.com:zhbhun/vcs-learning.git
