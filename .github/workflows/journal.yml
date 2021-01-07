@@ -17,12 +17,14 @@ jobs:
         with:
           path: |
             **/source
-          key: ${{ runner.os }}-source
+          key: ${{ runner.os }}-source-v1
+      # Make sure the @v0.4.1 matches the current version of the action 
+      - uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Use Node.js 14.x
         uses: actions/setup-node@v1
         with:
           node-version: 14.x
-      - env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        # run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git --gh-token $GH_TOKEN
-        run: npx learning-journal-ci changelog --git git@github.com:zhbhun/learning.git --gh-token $GH_TOKEN
+      - # run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git --gh-token $GH_TOKEN
+        run: npx learning-journal-ci changelog --git git@github.com:zhbhun/learning.git
