@@ -14,9 +14,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:zhbhun/frontend-learning.git
-[submodule "issues"]
-	path = issues
-	url = git@github.com:zhbhun/issues-fixer.git
 [submodule "java"]
 	path = java
 	url = git@github.com:zhbhun/java-learning.git
