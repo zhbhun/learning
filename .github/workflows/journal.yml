@@ -1,0 +1,21 @@
+name: journal
+
+on:
+  push:
+    branches:
+      - master
+  # schedule:
+  #   - cron: '0 15 * * *'
+
+jobs:
+  journal:
+    name: journal
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git --gh-token $GH_TOKEN
