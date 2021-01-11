@@ -5,6 +5,9 @@
 [submodule "android"]
 	path = android
 	url = git@github.com:zhbhun/android-learning.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/zhbhun/backend-learning.git
 [submodule "database"]
 	path = database
 	url = git@github.com:zhbhun/database-learning.git
