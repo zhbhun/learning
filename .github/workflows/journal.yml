@@ -1,11 +1,11 @@
 name: journal
 
 on:
-  push:
-    branches:
-      - master
-  # schedule:
-  #   - cron: '0 15 * * *'
+  # push:
+  #   branches:
+  #     - master
+  schedule:
+    - cron: '0 15 * * *'
 
 jobs:
   journal:
@@ -28,5 +28,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 14.x
-      # - run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git
-        run: npx learning-journal-ci changelog --git git@github.com:zhbhun/learning.git
+      - run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git
+      # - run: npx learning-journal-ci changelog --git git@github.com:zhbhun/learning.git
