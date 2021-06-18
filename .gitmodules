@@ -32,3 +32,6 @@
 [submodule "vcs"]
 	path = vcs
 	url = git@github.com:zhbhun/vcs-learning.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:zhbhun/backend-learning.git
