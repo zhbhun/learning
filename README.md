@@ -1,6 +1,7 @@
 # 学无止境
 
 - [前端技能汇总](https://github.com/JacksonTian/fks)
+- [computer_book_list](https://github.com/slidoooor/computer_book_list)
 
 ## 编程语言
 
