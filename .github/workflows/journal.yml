@@ -8,7 +8,7 @@ on:
 jobs:
   journal:
     name: journal
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       # Make sure the @v0.4.1 matches the current version of the action 
       - uses: webfactory/ssh-agent@v0.4.1
@@ -17,9 +17,9 @@ jobs:
       - run: git config --global user.email "zhbhun@gmail.com"
       - run: git config --global user.name "zhbhun"
       - run: rm -fr source
-      - name: Use Node.js 14.x
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: 14.x
+          node-version: 16.x
       - run: npx learning-journal-ci archive --git git@github.com:zhbhun/learning.git
       # - run: npx learning-journal-ci changelog --git git@github.com:zhbhun/learning.git
