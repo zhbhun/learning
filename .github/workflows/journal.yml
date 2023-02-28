@@ -10,6 +10,12 @@ jobs:
     name: journal
     runs-on: ubuntu-20.04
     steps:
+      - name: Cache source
+        uses: actions/cache@v2
+        with:
+          path: |
+            **/source
+          key: ${{ runner.os }}-source-v1
       # Make sure the @v0.4.1 matches the current version of the action 
       - uses: webfactory/ssh-agent@v0.4.1
         with:
@@ -18,7 +24,6 @@ jobs:
       - run: git config --global user.name "zhbhun"
       - run: rm -fr source
       - run: ls -al
-      - run: git clone --recurse-submodule git@github.com:zhbhun/learning.git source1
       - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
