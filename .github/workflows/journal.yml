@@ -18,6 +18,7 @@ jobs:
       - run: git config --global user.name "zhbhun"
       - run: rm -fr source
       - run: ls -al
+      - run: git clone --recurse-submodule git@github.com:zhbhun/learning.git source1
       - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
