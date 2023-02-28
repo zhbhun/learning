@@ -16,6 +16,7 @@ jobs:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - run: git config --global user.email "zhbhun@gmail.com"
       - run: git config --global user.name "zhbhun"
+      - run: rm -fr source
       - name: Use Node.js 14.x
         uses: actions/setup-node@v1
         with:
