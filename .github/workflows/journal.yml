@@ -17,7 +17,7 @@ jobs:
       - run: git config --global user.email "zhbhun@gmail.com"
       - run: git config --global user.name "zhbhun"
       - run: rm -fr source
-      - run: cat .gitmodules
+      - run: ls -al
       - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
