@@ -1,23 +1,15 @@
 name: journal
 
 on:
-  # push:
-  #   branches:
-  #     - master
-  schedule:
-    - cron: '0 15 * * *'
+  push:
+     branches:
+       - master
 
 jobs:
   journal:
     name: journal
     runs-on: ubuntu-18.04
     steps:
-      - name: Cache source
-        uses: actions/cache@v2
-        with:
-          path: |
-            **/source
-          key: ${{ runner.os }}-source-v1
       # Make sure the @v0.4.1 matches the current version of the action 
       - uses: webfactory/ssh-agent@v0.4.1
         with:
