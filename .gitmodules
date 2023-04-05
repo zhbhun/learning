@@ -1,4 +1,6 @@
-
+[submodule "ai"]
+	path = ai
+	url = git@github.com:zhbhun/learning-ai.git
 [submodule "algorithm"]
 	path = algorithm
 	url = git@github.com:zhbhun/algorithm-learning.git
