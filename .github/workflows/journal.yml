@@ -12,12 +12,12 @@ jobs:
     name: journal
     runs-on: ubuntu-20.04
     steps:
-      - name: Cache source
-        uses: actions/cache@v4
-        with:
-          path: |
-            **/source
-          key: ${{ runner.os }}-source-v1
+      # - name: Cache source
+      #   uses: actions/cache@v4
+      #   with:
+      #     path: |
+      #       **/source
+      #     key: ${{ runner.os }}-source-v1
       # Make sure the @v0.4.1 matches the current version of the action 
       - uses: webfactory/ssh-agent@v0.4.1
         with:
